@@ -55,7 +55,7 @@ Finding 3: The Sales Team is Built of 'Specialists.' This was the deepest insigh
 Finding 4: Critical Data Integrity Issue. The analysis uncovered that the sales_cycle column was 100% NULL for all 'Won' deals, revealing a fundamental flaw in the data collection process and making 'deal velocity' analysis impossible.
 
 Final Dashboard
-Sales Dashboard.png
+https://github.com/ibrahimshaik021/B2B-Sales-Pipeline-Analysis/blob/main/Sales%20Dashboard.png
 
 Actionable Recommendations
 Based on the analysis, the following recommendations were presented to sales leadership:
